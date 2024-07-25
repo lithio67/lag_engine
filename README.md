@@ -1,2 +1,5 @@
 # lag_engine
-A lag engine that only slows down but not harm the computer.
+- Designed only to slow down a computer, but not harm it.
+- For slower computers, I recommend saving your work. 
+
+
